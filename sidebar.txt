@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dmk:home|Door43 (dmk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dmk|d43-dmk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dmk/archive/master.zip|d43-dmk.zip]]
+
+**Recent Changes**
+{{changes>ns = dmk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dmk|Ethnologue data]]
+
